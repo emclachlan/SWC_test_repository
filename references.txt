@@ -3,4 +3,6 @@ So far so good! Now I'm adding more to the document!
 McLachlan et al. 2017
 
 This is a new line!
+<<<<<<< HEAD
 I'm adding something new now
+I win the merge conflict
