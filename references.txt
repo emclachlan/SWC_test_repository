@@ -1,2 +1,6 @@
 Excersize 1: Can I work in Git?
 So far so good! Now I'm adding more to the document!
+
+McLachlan et al. 2017
+
+adding a thing
