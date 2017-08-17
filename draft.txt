@@ -5,3 +5,5 @@ making modification
 
 can I commit before adding?
 adding something else
+
+Adding lines from Github
